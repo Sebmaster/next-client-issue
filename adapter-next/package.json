@@ -1,0 +1,14 @@
+{
+  "name": "@monorepo/adapter-next",
+  "version": "0.0.12",
+  "license": "UNLICENSED",
+  "type": "module",
+  "files": [
+    "dist"
+  ],
+  "exports": {
+    ".": {
+      "default": "./dist/client/index.js"
+    }
+  }
+}
